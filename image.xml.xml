@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+	<loc>https://pateva.github.io/</loc>
+	<lastmod>2023-01-15T00:25:02+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://pateva.github.io/index.html</loc>
+	<lastmod>2023-01-15T00:25:02+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://pateva.github.io/hamburger.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://pateva.github.io/logo_gs_studio.png</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://pateva.github.io/hair.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://pateva.github.io/massage.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://pateva.github.io/manicure.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://pateva.github.io/gsstudio-ceni.html</loc>
+	<lastmod>2023-01-15T00:25:02+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://pateva.github.io/nails_price2.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://pateva.github.io/massage_price.jpeg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://pateva.github.io/hair_price.jpg</image:loc>
+	</image:image>
+	<image:image>
+			<image:loc>https://pateva.github.io/face_price2.jpg</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://pateva.github.io/gsstudio-adres.html</loc>
+	<lastmod>2023-01-15T00:25:02+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://pateva.github.io/req.pdf</loc>
+	<lastmod>2023-01-15T00:25:02+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://pateva.github.io/gsstudio-ceni-nokti.html</loc>
+	<lastmod>2023-01-15T00:25:04+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://pateva.github.io/gsstudio-ceni-tqlo.html</loc>
+	<lastmod>2023-01-15T00:25:04+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://pateva.github.io/gsstudio-ceni-kosa.html</loc>
+	<lastmod>2023-01-15T00:25:04+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://pateva.github.io/gsstudio-ceni-lice.html</loc>
+	<lastmod>2023-01-15T00:25:04+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+</urlset>
