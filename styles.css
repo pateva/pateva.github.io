@@ -248,6 +248,8 @@ a {
         max-height: 93%;
         margin-top:10%;
         margin-bottom:0%;
+        padding-bottom: 5%;
+        margin-bottom: 5%;
     }
 
     .header.cont img {
